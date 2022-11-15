@@ -23,7 +23,7 @@ jika ingin menampilkan elemen tertentu
 
 maka akan menampilkan 
 
-![img.png](img1.0.png)
+![img.png](Picture/img1.0.png)
 
 jika ingin menampilkan 3 elemen secara bersamaan gunakan
 
@@ -31,7 +31,7 @@ jika ingin menampilkan 3 elemen secara bersamaan gunakan
 
 maka akan menampilkan
 
-![img.png](img1.01.png)
+![img.png](Picture/img1.01.png)
 
 jika ingin menggantikan sebuah elemen 
 
@@ -58,7 +58,7 @@ list bisa ditambahkan dengan ```append()```
 
 maka akan tambah elemen baru 
 
-![img.png](img1.11.png)
+![img.png](Picture/img1.11.png)
 
 List bisa ditambahkan elemen lebih banyak dengan ```extend()```
 
@@ -66,7 +66,7 @@ List bisa ditambahkan elemen lebih banyak dengan ```extend()```
 
 maka akan bertambah 3 elemen
 
-![img.png](img1.21.png)
+![img.png](Picture/img1.21.png)
 
 elemen dalam list bisa ditambahkan dengan operasional pertambahan ```(+)```
 
@@ -74,7 +74,7 @@ elemen dalam list bisa ditambahkan dengan operasional pertambahan ```(+)```
 
 maka output nya
 
-![img.png](img1.31.png)
+![img.png](Picture/img1.31.png)
 
 ---
 
@@ -82,7 +82,7 @@ maka output nya
 
 Flowchart 
 
-![img.png](Flowie.png)
+![img.png](Picture/Flowie.png)
 
 
 
@@ -131,4 +131,4 @@ print("==================================================================")
 
 maka hasilnya akan menjadi 
 
-![img.png](img2.0.png)
+![img.png](Picture/img2.0.png)
