@@ -15,13 +15,13 @@ while(not stop):
         stop = True
 
 print("==================================================================")
-print("| No |     Nama     |    NIM    | Tugas |  UTS  |  UAS  |  Akhir |")
+print("| No |    Nama      |  NIM  | Tugas |  UTS  |  UAS  |  Akhir |")
 print("==================================================================")
 
 i = 0
 
 for nilai in data:
     i += 1
-    print("| {no} | {nama:12s} | {nim} | {tugas:5d} | {uts:5d} | {uas:5d} | {akhir:6.2f} |".format(no=i, nama=nilai[0], nim=nilai[1], tugas=nilai[2],uts=nilai[3],uas=nilai[4],akhir=nilai[5]))
+    print("| {no}  | {nama:12s} | {nim:5s} | {tugas:5d} | {uts:5d} | {uas:5d} | {akhir:6.2f} |".format(no=i, nama=nilai[0], nim=nilai[1], tugas=nilai[2],uts=nilai[3],uas=nilai[4],akhir=nilai[5]))
 
 print("==================================================================")
