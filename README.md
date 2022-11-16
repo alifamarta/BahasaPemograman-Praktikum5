@@ -82,7 +82,7 @@ maka output nya
 
 Flowchart 
 
-![img.png](Picture/Flowie.png)
+![img.png](Picture/Flowchart.png)
 
 
 
