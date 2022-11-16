@@ -23,11 +23,15 @@ jika ingin menampilkan elemen tertentu
 
 maka akan menampilkan 
 
+---
+
 ![img.png](Picture/img1.0.png)
 
 jika ingin menampilkan 3 elemen secara bersamaan gunakan
 
     print(kota[1:4])
+
+---
 
 maka akan menampilkan
 
@@ -39,18 +43,23 @@ jika ingin menggantikan sebuah elemen
 
 maka akan menggantikan elemen yang keempat 
 
+---
+
 jika ingin menggantikan elemen secara bersamaan
 
     kota[3:4] = 'Cilacap','Batam'
 
 maka akan menggantikan elemen keempat hingga terakhir
 
+---
 
 kita juga bisa mengambilkan list dari list lain dengan cara
 
     kota1 = [kota[0],kota[1]]
 
 maka List nya akan berisi kan list pertama tadi
+
+---
 
 list bisa ditambahkan dengan ```append()``` 
 
