@@ -23,19 +23,19 @@ jika ingin menampilkan elemen tertentu
 
 maka akan menampilkan 
 
----
-
 ![img.png](Picture/img1.0.png)
+
+---
 
 jika ingin menampilkan 3 elemen secara bersamaan gunakan
 
     print(kota[1:4])
 
----
-
 maka akan menampilkan
 
 ![img.png](Picture/img1.01.png)
+
+---
 
 jika ingin menggantikan sebuah elemen 
 
@@ -69,6 +69,8 @@ maka akan tambah elemen baru
 
 ![img.png](Picture/img1.11.png)
 
+---
+
 List bisa ditambahkan elemen lebih banyak dengan ```extend()```
 
     kota1.extend(['Surakarta','Karawang','Cirebon'])
@@ -76,6 +78,8 @@ List bisa ditambahkan elemen lebih banyak dengan ```extend()```
 maka akan bertambah 3 elemen
 
 ![img.png](Picture/img1.21.png)
+
+---
 
 elemen dalam list bisa ditambahkan dengan operasional pertambahan ```(+)```
 
