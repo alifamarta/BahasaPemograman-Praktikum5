@@ -4,7 +4,7 @@ NIM : 312210326
 
 Kelas: TI.22.A3
 
-# Praktikum 4
+# Praktikum 5
 ## Latihan 1
 
 _List_ merupakan sebuah jenis data yang berisikan elemen elemen bisa berupa _string_,_Bool_,_integer_ 
